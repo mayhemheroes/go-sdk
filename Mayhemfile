@@ -1,0 +1,6 @@
+project: baptistapedro/bnb-chain-sdk
+target: bnb-chain-sdk-latest
+
+# List of commands used to test the target
+cmds:
+  - cmd: /fuzz_hexdecode
